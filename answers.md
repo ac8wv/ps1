@@ -1,5 +1,5 @@
 Title: Problem Set 1 Answers
-Author: <Aditi Chaudhry>
+Author: Aditi Chaudhry
 
 Problem 1. The following is the User-Agent string reported by my browser: User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
 
